@@ -20,7 +20,7 @@ $ cd ..
 $ catkin_make
 $ cd src/led_national_flag/myled
 $ bash setup.bash
-$ roslaunch led_national_flag.as flag_launch
+$ roslaunch led_national_flag flag.launch
 ```
 
 ### 回路図
