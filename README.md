@@ -10,7 +10,7 @@ robosys_2019ROS
 |:--:|:--:|
 | Raspberry Pi | Raspberry Pi Model 3B+ |
 | OS | Ubuntu18.04 |
-| ROS | ROS melodic |
+| ROS | ROS Melodic |
 
 ### 実行方法
 ```
