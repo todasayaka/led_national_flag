@@ -15,7 +15,7 @@ robosys_2019ROS
 ### 実行方法
 ```
 $ cd ~/catkin/src
-$ git clone 
+$ git clone https://github.com/todasayaka/led_national_flag.git
 $ cd ..
 $ catkin_make
 $ cd src/led_national_flag/myled
@@ -24,7 +24,6 @@ $ roslaunch led_national_flag.as flag_launch
 ```
 
 ### 回路図
-![kairo](https://user-images.githubusercontent.com/58972091/71457728-b28e8c00-27e2-11ea-8970-7b9088bc6939.PNG)
 
 ### Demo
 https://youtu.be/33rxStsgfUI
