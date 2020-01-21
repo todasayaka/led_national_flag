@@ -24,7 +24,7 @@ $ roslaunch led_national_flag flag.launch
 ```
 
 ### 回路図
-![ROS_kairozu](https://user-images.githubusercontent.com/58972091/72796541-d7134200-3c82-11ea-8874-d8fef6b22faf.jpg)
+![kairozu](https://user-images.githubusercontent.com/58972091/72800038-ca461c80-3c89-11ea-88c3-2e26f33f3e2c.JPG)
 
 ### Demo
 https://youtu.be/33rxStsgfUI
